@@ -1,6 +1,7 @@
-package com.cuanticosoluciones.superheroesx.model
+package com.cuanticosoluciones.superheroesx.data
 
 import com.cuanticosoluciones.superheroesx.R
+import com.cuanticosoluciones.superheroesx.model.Hero
 
 object HeroesRepository {
     val heroes = listOf(

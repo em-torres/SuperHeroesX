@@ -40,7 +40,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.cuanticosoluciones.superheroesx.model.Hero
-import com.cuanticosoluciones.superheroesx.model.HeroesRepository
+import com.cuanticosoluciones.superheroesx.data.HeroesRepository
 import com.cuanticosoluciones.superheroesx.ui.theme.SuperHeroesXTheme
 
 
